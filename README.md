@@ -34,9 +34,10 @@ Client ->
 
 ISO Layer
 ```
-Application layer
-Transport Layer
-Network layer
+Application layer (HTTP / HTTPS / DNS)
+Transport Layer (TCP / UDP)
+Internet Layer (IP Address)
+Network layer (Ethernet / Wireless)
 
 ```
 
