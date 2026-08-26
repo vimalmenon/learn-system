@@ -2,10 +2,11 @@
 
 ### Memory
 - Memory are of two type heap and stack
-- stack should know size
+- Stack should know size
+- Stack is fast
 - Heap is when the size is unknown
-- stack is fast
 - Heap is slow
+
 
 ---
 
@@ -25,7 +26,7 @@ Client -> ACK
 ```
 
 ---
-HTTPS Handshake
+3 Way HTTPS Handshake
 ```
 Client ->
 Server -> 
