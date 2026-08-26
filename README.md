@@ -10,7 +10,7 @@
 ---
 
 ### Network
-TCP Handshake
+3 Way TCP Handshake
 ```
 Client -> SYN
 Server -> SYN-ACK
@@ -27,7 +27,7 @@ Client -> ACK
 ---
 HTTPS Handshake
 ```
-Client -> Type of 
+Client ->
 Server -> 
 Client ->
 ```
@@ -38,7 +38,6 @@ Application layer (HTTP / HTTPS / DNS)
 Transport Layer (TCP / UDP)
 Internet Layer (IP Address)
 Network layer (Ethernet / Wireless)
-
 ```
 
 
