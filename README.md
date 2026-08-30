@@ -1,17 +1,17 @@
 # Learn System
 
 ### Memory
-- Memory are of two type heap and stack
-- Stack should know size
+- Memories are of two type Heap and Stack
+- Stack size should be known beforehand (Small Size)
 - Stack is fast
-- Heap is when the size is unknown
+- Heap is when the size is unknown (Big Size)
 - Heap is slow
 
 
 ---
 
 ### Network
-3 Way TCP Handshake
+#### 3 Way TCP Handshake
 ```
 Client -> SYN
 Server -> SYN-ACK
@@ -26,14 +26,15 @@ Client -> ACK
 ```
 
 ---
-3 Way HTTPS Handshake
+#### 3 Way HTTPS Handshake
 ```
 Client ->
 Server -> 
 Client ->
 ```
 
-ISO Layer
+### ISO Layer
+#### TCP Model
 ```
 Application layer (HTTP / HTTPS / DNS)
 Transport Layer (TCP / UDP)
